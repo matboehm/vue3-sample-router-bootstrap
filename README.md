@@ -1,4 +1,4 @@
-# emoji-to-favicon
+# vue3-sample-router-bootstrap
 
 ## Project setup
 ```
