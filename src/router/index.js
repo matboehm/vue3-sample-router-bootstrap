@@ -9,12 +9,12 @@ const routes = [
     component: Home,
   },
   {
-    path: "/index-mock",
-    name: "Index Mock",
+    path: "/about",
+    name: "About",
     meta: {
-      title: "Index Mock",
+      title: "About",
     },
-    component: () => import("@/views/IndexMock.vue"),
+    component: () => import("@/views/AboutPage.vue"),
   },
 ];
 
