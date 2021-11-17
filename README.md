@@ -1,5 +1,7 @@
 # vue3-sample-router-bootstrap
 
+Vue3 sample app for quick copy & paste action, including router & bootstrap
+
 ## Project setup
 ```
 npm install
